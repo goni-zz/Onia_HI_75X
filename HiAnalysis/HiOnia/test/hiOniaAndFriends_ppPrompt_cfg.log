@@ -1,0 +1,311 @@
+ 
+[INFO] Settings used for ONIA TREE: 
+[INFO] isPbPb        = False
+[INFO] isMC          = False
+[INFO] isPromptDATA  = True
+[INFO] isPromptMC    = False
+[INFO] useExtraColl  = False
+[INFO] applyEventSel = False
+[INFO] muonSelection = Trk
+[INFO] genPDG        = 443
+ 
+# Conditions read from  CMS_CONDITIONS  via FrontierProd 
+11-Jan-2016 16:43:18 KST  Initiating request to open file file:/xrootd/store/user/goni/PromptReco/DoubleMu_Run2015E-PromptReco-v1_Run_262081_262328_ONIASKIM_160106/DoubleMu/DoubleMu_Run2015E-PromptReco-v1_Run_262081_262328_ONIASKIM_160106/160106_061714/0000/onia2MuMuPAT_DATA_75X_1.root
+11-Jan-2016 16:43:18 KST  Successfully opened file file:/xrootd/store/user/goni/PromptReco/DoubleMu_Run2015E-PromptReco-v1_Run_262081_262328_ONIASKIM_160106/DoubleMu/DoubleMu_Run2015E-PromptReco-v1_Run_262081_262328_ONIASKIM_160106/160106_061714/0000/onia2MuMuPAT_DATA_75X_1.root
+NTRIGGERS_DBL = 5	 NTRIGGERS_SGL = 10	 NTRIGGERS = 16
+ Trigger 1	hltHIDoubleMu0L1Filtered
+ Trigger 2	hltHIDoubleMu10MinBiasL1Filtered
+ Trigger 3	hltHIL2DoubleMu0NHitQFiltered
+ Trigger 4	hltHIDimuonOpenOSm2p5to4p5L3Filter
+ Trigger 5	hltHIDimuonOpenOSm7to14L3Filter
+ Trigger 6	hltHIL2Mu3N10HitQL2Filtered
+ Trigger 7	hltHISingleMu3NHit15L3Filtered
+ Trigger 8	hltHIL2Mu5N10HitQL2Filtered
+ Trigger 9	hltHISingleMu5NHit15L3Filtered
+ Trigger 10	hltHISingleMu5NHit15L3Filtered
+ Trigger 11	hltHISingleMu7NHit15L3Filtered
+ Trigger 12	hltHIL2Mu15L2Filtered
+ Trigger 13	hltHISingleMu15L3Filtered
+ Trigger 14	hltHIL2Mu20L2Filtered
+ Trigger 15	hltHIL3SingleMu20L3Filtered
+Pt min = 0
+Pt max = 40
+Rap min = 0
+Rap max = 2.5
+All_HLT_HIL1DoubleMu0_v1_0040 => 4
+All_HLT_HIL1DoubleMu0_v1_4080 => 5
+All_HLT_HIL1DoubleMu0_v1_80200 => 6
+All_HLT_HIL1DoubleMu0_v1_MinBias => 7
+All_HLT_HIL1DoubleMu10_v1_0040 => 8
+All_HLT_HIL1DoubleMu10_v1_4080 => 9
+All_HLT_HIL1DoubleMu10_v1_80200 => 10
+All_HLT_HIL1DoubleMu10_v1_MinBias => 11
+All_HLT_HIL2DoubleMu0_NHitQ_v1_0040 => 12
+All_HLT_HIL2DoubleMu0_NHitQ_v1_4080 => 13
+All_HLT_HIL2DoubleMu0_NHitQ_v1_80200 => 14
+All_HLT_HIL2DoubleMu0_NHitQ_v1_MinBias => 15
+All_HLT_HIL2Mu15_v1_0040 => 48
+All_HLT_HIL2Mu15_v1_4080 => 49
+All_HLT_HIL2Mu15_v1_80200 => 50
+All_HLT_HIL2Mu15_v1_MinBias => 51
+All_HLT_HIL2Mu20_v1_0040 => 56
+All_HLT_HIL2Mu20_v1_4080 => 57
+All_HLT_HIL2Mu20_v1_80200 => 58
+All_HLT_HIL2Mu20_v1_MinBias => 59
+All_HLT_HIL2Mu3_NHitQ10_v1_0040 => 24
+All_HLT_HIL2Mu3_NHitQ10_v1_4080 => 25
+All_HLT_HIL2Mu3_NHitQ10_v1_80200 => 26
+All_HLT_HIL2Mu3_NHitQ10_v1_MinBias => 27
+All_HLT_HIL2Mu5_NHitQ10_v1_0040 => 32
+All_HLT_HIL2Mu5_NHitQ10_v1_4080 => 33
+All_HLT_HIL2Mu5_NHitQ10_v1_80200 => 34
+All_HLT_HIL2Mu5_NHitQ10_v1_MinBias => 35
+All_HLT_HIL2Mu7_NHitQ10_v1_0040 => 40
+All_HLT_HIL2Mu7_NHitQ10_v1_4080 => 41
+All_HLT_HIL2Mu7_NHitQ10_v1_80200 => 42
+All_HLT_HIL2Mu7_NHitQ10_v1_MinBias => 43
+All_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_0040 => 16
+All_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_4080 => 17
+All_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_80200 => 18
+All_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_MinBias => 19
+All_HLT_HIL3DoubleMu0_OS_m7to14_v1_0040 => 20
+All_HLT_HIL3DoubleMu0_OS_m7to14_v1_4080 => 21
+All_HLT_HIL3DoubleMu0_OS_m7to14_v1_80200 => 22
+All_HLT_HIL3DoubleMu0_OS_m7to14_v1_MinBias => 23
+All_HLT_HIL3Mu15_v1_0040 => 52
+All_HLT_HIL3Mu15_v1_4080 => 53
+All_HLT_HIL3Mu15_v1_80200 => 54
+All_HLT_HIL3Mu15_v1_MinBias => 55
+All_HLT_HIL3Mu20_v1_0040 => 60
+All_HLT_HIL3Mu20_v1_4080 => 61
+All_HLT_HIL3Mu20_v1_80200 => 62
+All_HLT_HIL3Mu20_v1_MinBias => 63
+All_HLT_HIL3Mu3_NHitQ15_v1_0040 => 28
+All_HLT_HIL3Mu3_NHitQ15_v1_4080 => 29
+All_HLT_HIL3Mu3_NHitQ15_v1_80200 => 30
+All_HLT_HIL3Mu3_NHitQ15_v1_MinBias => 31
+All_HLT_HIL3Mu5_NHitQ15_v1_0040 => 36
+All_HLT_HIL3Mu5_NHitQ15_v1_4080 => 37
+All_HLT_HIL3Mu5_NHitQ15_v1_80200 => 38
+All_HLT_HIL3Mu5_NHitQ15_v1_MinBias => 39
+All_HLT_HIL3Mu7_NHitQ15_v1_0040 => 44
+All_HLT_HIL3Mu7_NHitQ15_v1_4080 => 45
+All_HLT_HIL3Mu7_NHitQ15_v1_80200 => 46
+All_HLT_HIL3Mu7_NHitQ15_v1_MinBias => 47
+All_NoTrigger_0040 => 0
+All_NoTrigger_4080 => 1
+All_NoTrigger_80200 => 2
+All_NoTrigger_MinBias => 3
+Barrel_HLT_HIL1DoubleMu0_v1_0040 => 68
+Barrel_HLT_HIL1DoubleMu0_v1_4080 => 69
+Barrel_HLT_HIL1DoubleMu0_v1_80200 => 70
+Barrel_HLT_HIL1DoubleMu0_v1_MinBias => 71
+Barrel_HLT_HIL1DoubleMu10_v1_0040 => 72
+Barrel_HLT_HIL1DoubleMu10_v1_4080 => 73
+Barrel_HLT_HIL1DoubleMu10_v1_80200 => 74
+Barrel_HLT_HIL1DoubleMu10_v1_MinBias => 75
+Barrel_HLT_HIL2DoubleMu0_NHitQ_v1_0040 => 76
+Barrel_HLT_HIL2DoubleMu0_NHitQ_v1_4080 => 77
+Barrel_HLT_HIL2DoubleMu0_NHitQ_v1_80200 => 78
+Barrel_HLT_HIL2DoubleMu0_NHitQ_v1_MinBias => 79
+Barrel_HLT_HIL2Mu15_v1_0040 => 112
+Barrel_HLT_HIL2Mu15_v1_4080 => 113
+Barrel_HLT_HIL2Mu15_v1_80200 => 114
+Barrel_HLT_HIL2Mu15_v1_MinBias => 115
+Barrel_HLT_HIL2Mu20_v1_0040 => 120
+Barrel_HLT_HIL2Mu20_v1_4080 => 121
+Barrel_HLT_HIL2Mu20_v1_80200 => 122
+Barrel_HLT_HIL2Mu20_v1_MinBias => 123
+Barrel_HLT_HIL2Mu3_NHitQ10_v1_0040 => 88
+Barrel_HLT_HIL2Mu3_NHitQ10_v1_4080 => 89
+Barrel_HLT_HIL2Mu3_NHitQ10_v1_80200 => 90
+Barrel_HLT_HIL2Mu3_NHitQ10_v1_MinBias => 91
+Barrel_HLT_HIL2Mu5_NHitQ10_v1_0040 => 96
+Barrel_HLT_HIL2Mu5_NHitQ10_v1_4080 => 97
+Barrel_HLT_HIL2Mu5_NHitQ10_v1_80200 => 98
+Barrel_HLT_HIL2Mu5_NHitQ10_v1_MinBias => 99
+Barrel_HLT_HIL2Mu7_NHitQ10_v1_0040 => 104
+Barrel_HLT_HIL2Mu7_NHitQ10_v1_4080 => 105
+Barrel_HLT_HIL2Mu7_NHitQ10_v1_80200 => 106
+Barrel_HLT_HIL2Mu7_NHitQ10_v1_MinBias => 107
+Barrel_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_0040 => 80
+Barrel_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_4080 => 81
+Barrel_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_80200 => 82
+Barrel_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_MinBias => 83
+Barrel_HLT_HIL3DoubleMu0_OS_m7to14_v1_0040 => 84
+Barrel_HLT_HIL3DoubleMu0_OS_m7to14_v1_4080 => 85
+Barrel_HLT_HIL3DoubleMu0_OS_m7to14_v1_80200 => 86
+Barrel_HLT_HIL3DoubleMu0_OS_m7to14_v1_MinBias => 87
+Barrel_HLT_HIL3Mu15_v1_0040 => 116
+Barrel_HLT_HIL3Mu15_v1_4080 => 117
+Barrel_HLT_HIL3Mu15_v1_80200 => 118
+Barrel_HLT_HIL3Mu15_v1_MinBias => 119
+Barrel_HLT_HIL3Mu20_v1_0040 => 124
+Barrel_HLT_HIL3Mu20_v1_4080 => 125
+Barrel_HLT_HIL3Mu20_v1_80200 => 126
+Barrel_HLT_HIL3Mu20_v1_MinBias => 127
+Barrel_HLT_HIL3Mu3_NHitQ15_v1_0040 => 92
+Barrel_HLT_HIL3Mu3_NHitQ15_v1_4080 => 93
+Barrel_HLT_HIL3Mu3_NHitQ15_v1_80200 => 94
+Barrel_HLT_HIL3Mu3_NHitQ15_v1_MinBias => 95
+Barrel_HLT_HIL3Mu5_NHitQ15_v1_0040 => 100
+Barrel_HLT_HIL3Mu5_NHitQ15_v1_4080 => 101
+Barrel_HLT_HIL3Mu5_NHitQ15_v1_80200 => 102
+Barrel_HLT_HIL3Mu5_NHitQ15_v1_MinBias => 103
+Barrel_HLT_HIL3Mu7_NHitQ15_v1_0040 => 108
+Barrel_HLT_HIL3Mu7_NHitQ15_v1_4080 => 109
+Barrel_HLT_HIL3Mu7_NHitQ15_v1_80200 => 110
+Barrel_HLT_HIL3Mu7_NHitQ15_v1_MinBias => 111
+Barrel_NoTrigger_0040 => 64
+Barrel_NoTrigger_4080 => 65
+Barrel_NoTrigger_80200 => 66
+Barrel_NoTrigger_MinBias => 67
+EndCap_HLT_HIL1DoubleMu0_v1_0040 => 132
+EndCap_HLT_HIL1DoubleMu0_v1_4080 => 133
+EndCap_HLT_HIL1DoubleMu0_v1_80200 => 134
+EndCap_HLT_HIL1DoubleMu0_v1_MinBias => 135
+EndCap_HLT_HIL1DoubleMu10_v1_0040 => 136
+EndCap_HLT_HIL1DoubleMu10_v1_4080 => 137
+EndCap_HLT_HIL1DoubleMu10_v1_80200 => 138
+EndCap_HLT_HIL1DoubleMu10_v1_MinBias => 139
+EndCap_HLT_HIL2DoubleMu0_NHitQ_v1_0040 => 140
+EndCap_HLT_HIL2DoubleMu0_NHitQ_v1_4080 => 141
+EndCap_HLT_HIL2DoubleMu0_NHitQ_v1_80200 => 142
+EndCap_HLT_HIL2DoubleMu0_NHitQ_v1_MinBias => 143
+EndCap_HLT_HIL2Mu15_v1_0040 => 176
+EndCap_HLT_HIL2Mu15_v1_4080 => 177
+EndCap_HLT_HIL2Mu15_v1_80200 => 178
+EndCap_HLT_HIL2Mu15_v1_MinBias => 179
+EndCap_HLT_HIL2Mu20_v1_0040 => 184
+EndCap_HLT_HIL2Mu20_v1_4080 => 185
+EndCap_HLT_HIL2Mu20_v1_80200 => 186
+EndCap_HLT_HIL2Mu20_v1_MinBias => 187
+EndCap_HLT_HIL2Mu3_NHitQ10_v1_0040 => 152
+EndCap_HLT_HIL2Mu3_NHitQ10_v1_4080 => 153
+EndCap_HLT_HIL2Mu3_NHitQ10_v1_80200 => 154
+EndCap_HLT_HIL2Mu3_NHitQ10_v1_MinBias => 155
+EndCap_HLT_HIL2Mu5_NHitQ10_v1_0040 => 160
+EndCap_HLT_HIL2Mu5_NHitQ10_v1_4080 => 161
+EndCap_HLT_HIL2Mu5_NHitQ10_v1_80200 => 162
+EndCap_HLT_HIL2Mu5_NHitQ10_v1_MinBias => 163
+EndCap_HLT_HIL2Mu7_NHitQ10_v1_0040 => 168
+EndCap_HLT_HIL2Mu7_NHitQ10_v1_4080 => 169
+EndCap_HLT_HIL2Mu7_NHitQ10_v1_80200 => 170
+EndCap_HLT_HIL2Mu7_NHitQ10_v1_MinBias => 171
+EndCap_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_0040 => 144
+EndCap_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_4080 => 145
+EndCap_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_80200 => 146
+EndCap_HLT_HIL3DoubleMu0_OS_m2p5to4p5_v1_MinBias => 147
+EndCap_HLT_HIL3DoubleMu0_OS_m7to14_v1_0040 => 148
+EndCap_HLT_HIL3DoubleMu0_OS_m7to14_v1_4080 => 149
+EndCap_HLT_HIL3DoubleMu0_OS_m7to14_v1_80200 => 150
+EndCap_HLT_HIL3DoubleMu0_OS_m7to14_v1_MinBias => 151
+EndCap_HLT_HIL3Mu15_v1_0040 => 180
+EndCap_HLT_HIL3Mu15_v1_4080 => 181
+EndCap_HLT_HIL3Mu15_v1_80200 => 182
+EndCap_HLT_HIL3Mu15_v1_MinBias => 183
+EndCap_HLT_HIL3Mu20_v1_0040 => 188
+EndCap_HLT_HIL3Mu20_v1_4080 => 189
+EndCap_HLT_HIL3Mu20_v1_80200 => 190
+EndCap_HLT_HIL3Mu20_v1_MinBias => 191
+EndCap_HLT_HIL3Mu3_NHitQ15_v1_0040 => 156
+EndCap_HLT_HIL3Mu3_NHitQ15_v1_4080 => 157
+EndCap_HLT_HIL3Mu3_NHitQ15_v1_80200 => 158
+EndCap_HLT_HIL3Mu3_NHitQ15_v1_MinBias => 159
+EndCap_HLT_HIL3Mu5_NHitQ15_v1_0040 => 164
+EndCap_HLT_HIL3Mu5_NHitQ15_v1_4080 => 165
+EndCap_HLT_HIL3Mu5_NHitQ15_v1_80200 => 166
+EndCap_HLT_HIL3Mu5_NHitQ15_v1_MinBias => 167
+EndCap_HLT_HIL3Mu7_NHitQ15_v1_0040 => 172
+EndCap_HLT_HIL3Mu7_NHitQ15_v1_4080 => 173
+EndCap_HLT_HIL3Mu7_NHitQ15_v1_80200 => 174
+EndCap_HLT_HIL3Mu7_NHitQ15_v1_MinBias => 175
+EndCap_NoTrigger_0040 => 128
+EndCap_NoTrigger_4080 => 129
+EndCap_NoTrigger_80200 => 130
+EndCap_NoTrigger_MinBias => 131
+Begin processing the 1st record. Run 262157, Event 643617, LumiSection 1 at 11-Jan-2016 16:43:20.039 KST
+Begin processing the 1001st record. Run 262163, Event 824303, LumiSection 5 at 11-Jan-2016 16:43:50.338 KST
+Begin processing the 2001st record. Run 262163, Event 45174753, LumiSection 73 at 11-Jan-2016 16:44:23.687 KST
+Begin processing the 3001st record. Run 262163, Event 82412373, LumiSection 147 at 11-Jan-2016 16:44:55.154 KST
+Begin processing the 4001st record. Run 262163, Event 119237813, LumiSection 219 at 11-Jan-2016 16:45:26.399 KST
+Begin processing the 5001st record. Run 262165, Event 33785311, LumiSection 62 at 11-Jan-2016 16:46:06.509 KST
+Begin processing the 6001st record. Run 262167, Event 7318746, LumiSection 14 at 11-Jan-2016 16:46:51.423 KST
+Begin processing the 7001st record. Run 262167, Event 68667480, LumiSection 101 at 11-Jan-2016 16:47:34.492 KST
+Begin processing the 8001st record. Run 262167, Event 126648532, LumiSection 185 at 11-Jan-2016 16:48:15.425 KST
+Begin processing the 9001st record. Run 262167, Event 189294675, LumiSection 276 at 11-Jan-2016 16:48:38.832 KST
+Begin processing the 10001st record. Run 262172, Event 80871360, LumiSection 127 at 11-Jan-2016 16:49:06.940 KST
+Begin processing the 11001st record. Run 262173, Event 61103532, LumiSection 94 at 11-Jan-2016 16:49:40.765 KST
+11-Jan-2016 16:50:04 KST  Closed file file:/xrootd/store/user/goni/PromptReco/DoubleMu_Run2015E-PromptReco-v1_Run_262081_262328_ONIASKIM_160106/DoubleMu/DoubleMu_Run2015E-PromptReco-v1_Run_262081_262328_ONIASKIM_160106/160106_061714/0000/onia2MuMuPAT_DATA_75X_1.root
+Total number of events = 11827
+Total number of passed candidates = 9330
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 11827 passed = 11827 failed = 0
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#   Executed     Passed     Failed      Error Name
+TrigReport     1    0      11827      11827          0          0 p
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#   Executed     Passed     Failed      Error Name
+
+TrigReport ---------- Modules in Path: p ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0      11827      11827          0          0 hionia
+TrigReport     1    1      11827      11827          0          0 ppTrack
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited   Executed     Passed     Failed      Error Name
+TrigReport      11827      11827      11827          0          0 hionia
+TrigReport      11827      11827      11827          0          0 ppTrack
+TrigReport      11827      11827      11827          0          0 TriggerResults
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport       event loop CPU/event = 0.032989
+TimeReport      event loop Real/event = 0.034181
+TimeReport     sum Streams Real/event = 0.032833
+TimeReport efficiency CPU/Real/thread = 0.965110
+
+TimeReport ---------- Path   Summary ---[Real sec]----
+TimeReport  per event     per exec  Name
+TimeReport   0.032657     0.032657  p
+TimeReport  per event     per exec  Name
+
+TimeReport -------End-Path   Summary ---[Real sec]----
+TimeReport  per event     per exec  Name
+TimeReport  per event     per exec  Name
+
+TimeReport ---------- Modules in Path: p ---[Real sec]----
+TimeReport  per event    per visit  Name
+TimeReport   0.000933     0.000933  hionia
+TimeReport   0.030292     0.030292  ppTrack
+TimeReport  per event    per visit  Name
+
+TimeReport ---------- Module Summary ---[Real sec]----
+TimeReport  per event     per exec    per visit  Name
+TimeReport   0.000015     0.000015     0.000015  TriggerResults
+TimeReport   0.000933     0.000933     0.000933  hionia
+TimeReport   0.030292     0.030292     0.030292  ppTrack
+TimeReport  per event     per exec    per visit  Name
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun                        
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3
